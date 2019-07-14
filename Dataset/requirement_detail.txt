@@ -11,7 +11,7 @@
 1 - General Analysis : 
 	1 - Immigration
 	2 - Destination
-	3 - GDP
+	3 - GDP AND CPI
 	4 - Population number
 	5 - Age population
 	6 - Unemployer and Employer
