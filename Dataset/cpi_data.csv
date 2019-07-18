@@ -1,0 +1,265 @@
+factor,indicatorid,indicatoridvalue,countryid,countryidvalue,value,decimal,date
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CA,Canada,23098885,0,2008
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CA,Canada,23356404,0,2009
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CA,Canada,23582389,0,2010
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CA,Canada,23734406,0,2011
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CA,Canada,23907120,0,2012
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CA,Canada,24060603,0,2013
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CA,Canada,24185784,0,2014
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CA,Canada,24233125,0,2015
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CA,Canada,24358158,0,2016
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CA,Canada,24478558,0,2017
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CA,Canada,24644683,0,2018
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CN,China,974377449,0,2008
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CN,China,981227626,0,2009
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CN,China,986577919,0,2010
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CN,China,990704324,0,2011
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CN,China,993567856,0,2012
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CN,China,995254240,0,2013
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CN,China,996046584,0,2014
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CN,China,996030376,0,2015
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CN,China,995072896,0,2016
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CN,China,993792919,0,2017
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",CN,China,991444061,0,2018
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",IN,India,760237037,0,2008
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",IN,India,774995357,0,2009
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",IN,India,789877544,0,2010
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",IN,India,803981308,0,2011
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",IN,India,818411272,0,2012
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",IN,India,832931135,0,2013
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",IN,India,847153948,0,2014
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",IN,India,860849334,0,2015
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",IN,India,874131931,0,2016
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",IN,India,886571006,0,2017
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",IN,India,898526060,0,2018
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",PH,Philippines,55283035,0,2008
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",PH,Philippines,56738307,0,2009
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",PH,Philippines,58222819,0,2010
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",PH,Philippines,59488922,0,2011
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",PH,Philippines,60786162,0,2012
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",PH,Philippines,62074456,0,2013
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",PH,Philippines,63326081,0,2014
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",PH,Philippines,64534434,0,2015
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",PH,Philippines,65668763,0,2016
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",PH,Philippines,66765677,0,2017
+age15t64,SP.POP.1564.TO,"Population ages 15-64, total",PH,Philippines,67835490,0,2018
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CA,Canada,97.9607899255867,1,2008
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CA,Canada,98.2541499713795,1,2009
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CA,Canada,100,1,2010
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CA,Canada,102.912135088724,1,2011
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CA,Canada,104.471951917573,1,2012
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CA,Canada,105.452203777905,1,2013
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CA,Canada,107.462793360046,1,2014
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CA,Canada,108.672009158558,1,2015
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CA,Canada,110.224670864339,1,2016
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CA,Canada,111.984831139096,1,2017
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CA,Canada,114.524899828277,1,2018
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CN,China,97.6333339896663,1,2008
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CN,China,96.9223960389561,1,2009
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CN,China,100,1,2010
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CN,China,105.553897059043,1,2011
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CN,China,108.318909010561,1,2012
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CN,China,111.158000721251,1,2013
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CN,China,113.294061123401,1,2014
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CN,China,114.922124554591,1,2015
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CN,China,117.220567045682,1,2016
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CN,China,119.088051569694,1,2017
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),CN,China,121.558877247618,1,2018
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),IN,India,80.5305542396968,1,2008
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),IN,India,89.2941733775462,1,2009
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),IN,India,100,1,2010
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),IN,India,108.858360966367,1,2011
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),IN,India,118.995736617717,1,2012
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),IN,India,131.975367124585,1,2013
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),IN,India,140.360018948366,1,2014
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),IN,India,148.60255802937,1,2015
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),IN,India,155.94504973946,1,2016
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),IN,India,159.829464708669,1,2017
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),IN,India,167.598294647087,1,2018
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),PH,Philippines,92.448132780083,1,2008
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),PH,Philippines,96.3485477178423,1,2009
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),PH,Philippines,100,1,2010
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),PH,Philippines,104.718417047184,1,2011
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),PH,Philippines,107.888205739633,1,2012
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),PH,Philippines,110.674621117395,1,2013
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),PH,Philippines,114.656498576585,1,2014
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),PH,Philippines,115.429504132997,1,2015
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),PH,Philippines,116.876642442093,1,2016
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),PH,Philippines,120.211352458706,1,2017
+cpi,FP.CPI.TOTL,Consumer price index (2010 = 100),PH,Philippines,126.476292840321,1,2018
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CA,Canada,1549131208997.19,0,2008
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CA,Canada,1371153004986.44,0,2009
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CA,Canada,1613542812589.39,0,2010
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CA,Canada,1789140665202.84,0,2011
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CA,Canada,1823966686523.63,0,2012
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CA,Canada,1842018420853.1,0,2013
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CA,Canada,1801480123070.82,0,2014
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CA,Canada,1552899925233.71,0,2015
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CA,Canada,1526705529135.32,0,2016
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CA,Canada,1646867220617.47,0,2017
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CA,Canada,1709327324240.04,0,2018
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CN,China,4594306848763.08,0,2008
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CN,China,5101702432883.45,0,2009
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CN,China,6087164527421.24,0,2010
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CN,China,7551500425597.77,0,2011
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CN,China,8532230724141.76,0,2012
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CN,China,9570405758739.79,0,2013
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CN,China,10438529153237.6,0,2014
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CN,China,11015542352468.9,0,2015
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CN,China,11137945669350.6,0,2016
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CN,China,12143491448186.1,0,2017
+gdp,NY.GDP.MKTP.CD,GDP (current US$),CN,China,13608151864637.9,0,2018
+gdp,NY.GDP.MKTP.CD,GDP (current US$),IN,India,1198895498504.14,0,2008
+gdp,NY.GDP.MKTP.CD,GDP (current US$),IN,India,1341886699393.18,0,2009
+gdp,NY.GDP.MKTP.CD,GDP (current US$),IN,India,1675615312693.42,0,2010
+gdp,NY.GDP.MKTP.CD,GDP (current US$),IN,India,1823049927771.46,0,2011
+gdp,NY.GDP.MKTP.CD,GDP (current US$),IN,India,1827637859135.7,0,2012
+gdp,NY.GDP.MKTP.CD,GDP (current US$),IN,India,1856722121394.53,0,2013
+gdp,NY.GDP.MKTP.CD,GDP (current US$),IN,India,2039127446298.55,0,2014
+gdp,NY.GDP.MKTP.CD,GDP (current US$),IN,India,2103587813812.75,0,2015
+gdp,NY.GDP.MKTP.CD,GDP (current US$),IN,India,2290432075123.75,0,2016
+gdp,NY.GDP.MKTP.CD,GDP (current US$),IN,India,2652551202555.27,0,2017
+gdp,NY.GDP.MKTP.CD,GDP (current US$),IN,India,2726322616821.31,0,2018
+gdp,NY.GDP.MKTP.CD,GDP (current US$),PH,Philippines,174195136253.393,0,2008
+gdp,NY.GDP.MKTP.CD,GDP (current US$),PH,Philippines,168334601260.075,0,2009
+gdp,NY.GDP.MKTP.CD,GDP (current US$),PH,Philippines,199590775190.258,0,2010
+gdp,NY.GDP.MKTP.CD,GDP (current US$),PH,Philippines,224143083706.777,0,2011
+gdp,NY.GDP.MKTP.CD,GDP (current US$),PH,Philippines,250092092998.143,0,2012
+gdp,NY.GDP.MKTP.CD,GDP (current US$),PH,Philippines,271836123723.678,0,2013
+gdp,NY.GDP.MKTP.CD,GDP (current US$),PH,Philippines,284584522898.872,0,2014
+gdp,NY.GDP.MKTP.CD,GDP (current US$),PH,Philippines,292774099013.687,0,2015
+gdp,NY.GDP.MKTP.CD,GDP (current US$),PH,Philippines,304897590205.413,0,2016
+gdp,NY.GDP.MKTP.CD,GDP (current US$),PH,Philippines,313619747740.186,0,2017
+gdp,NY.GDP.MKTP.CD,GDP (current US$),PH,Philippines,330910343610.956,0,2018
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CA,Canada,2.37027067444294,1,2008
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CA,Canada,0.299466803009284,1,2009
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CA,Canada,1.77687154092629,1,2010
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CA,Canada,2.91213508872355,1,2011
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CA,Canada,1.51567823124521,1,2012
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CA,Canada,0.93829189781521,1,2013
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CA,Canada,1.90663590717873,1,2014
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CA,Canada,1.12524136094279,1,2015
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CA,Canada,1.4287595470108,1,2016
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CA,Canada,1.5968841285297,1,2017
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CA,Canada,2.268225672481,1,2018
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CN,China,5.9252552887092,1,2008
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CN,China,-0.728171334173071,1,2009
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CN,China,3.17532798075574,1,2010
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CN,China,5.55389705904324,1,2011
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CN,China,2.61952616488542,1,2012
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CN,China,2.62104902701091,1,2013
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CN,China,1.92164341593894,1,2014
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CN,China,1.4370245139476,1,2015
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CN,China,2.00000000000002,1,2016
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CN,China,1.59313725490194,1,2017
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",CN,China,2.07478890229193,1,2018
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",IN,India,8.34926704907584,1,2008
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",IN,India,10.8823529411765,1,2009
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",IN,India,11.9893899204244,1,2010
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",IN,India,8.85836096636663,1,2011
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",IN,India,9.31244560487382,1,2012
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",IN,India,10.9076433121019,1,2013
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",IN,India,6.35319454414936,1,2014
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",IN,India,5.87242659466756,1,2015
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",IN,India,4.94102645839974,1,2016
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",IN,India,2.49088699878493,1,2017
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",IN,India,4.86069946650859,1,2018
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",PH,Philippines,8.26044703595724,1,2008
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",PH,Philippines,4.21903052064627,1,2009
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",PH,Philippines,3.78983634797591,1,2010
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",PH,Philippines,4.71841704718416,1,2011
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",PH,Philippines,3.02696391124798,1,2012
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",PH,Philippines,2.58268766141797,1,2013
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",PH,Philippines,3.59782343864207,1,2014
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",PH,Philippines,0.674192536845412,1,2015
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",PH,Philippines,1.25369880080983,1,2016
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",PH,Philippines,2.85318772590942,1,2017
+inflation,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",PH,Philippines,5.21160460595185,1,2018
+population,SP.POP.TOTL,"Population, total",CA,Canada,33247118,0,2008
+population,SP.POP.TOTL,"Population, total",CA,Canada,33628895,0,2009
+population,SP.POP.TOTL,"Population, total",CA,Canada,34004889,0,2010
+population,SP.POP.TOTL,"Population, total",CA,Canada,34339328,0,2011
+population,SP.POP.TOTL,"Population, total",CA,Canada,34714222,0,2012
+population,SP.POP.TOTL,"Population, total",CA,Canada,35082954,0,2013
+population,SP.POP.TOTL,"Population, total",CA,Canada,35437435,0,2014
+population,SP.POP.TOTL,"Population, total",CA,Canada,35702908,0,2015
+population,SP.POP.TOTL,"Population, total",CA,Canada,36109487,0,2016
+population,SP.POP.TOTL,"Population, total",CA,Canada,36540268,0,2017
+population,SP.POP.TOTL,"Population, total",CA,Canada,37058856,0,2018
+population,SP.POP.TOTL,"Population, total",CN,China,1324655000,0,2008
+population,SP.POP.TOTL,"Population, total",CN,China,1331260000,0,2009
+population,SP.POP.TOTL,"Population, total",CN,China,1337705000,0,2010
+population,SP.POP.TOTL,"Population, total",CN,China,1344130000,0,2011
+population,SP.POP.TOTL,"Population, total",CN,China,1350695000,0,2012
+population,SP.POP.TOTL,"Population, total",CN,China,1357380000,0,2013
+population,SP.POP.TOTL,"Population, total",CN,China,1364270000,0,2014
+population,SP.POP.TOTL,"Population, total",CN,China,1371220000,0,2015
+population,SP.POP.TOTL,"Population, total",CN,China,1378665000,0,2016
+population,SP.POP.TOTL,"Population, total",CN,China,1386395000,0,2017
+population,SP.POP.TOTL,"Population, total",CN,China,1392730000,0,2018
+population,SP.POP.TOTL,"Population, total",IN,India,1200669765,0,2008
+population,SP.POP.TOTL,"Population, total",IN,India,1217726215,0,2009
+population,SP.POP.TOTL,"Population, total",IN,India,1234281170,0,2010
+population,SP.POP.TOTL,"Population, total",IN,India,1250288729,0,2011
+population,SP.POP.TOTL,"Population, total",IN,India,1265782790,0,2012
+population,SP.POP.TOTL,"Population, total",IN,India,1280846129,0,2013
+population,SP.POP.TOTL,"Population, total",IN,India,1295604184,0,2014
+population,SP.POP.TOTL,"Population, total",IN,India,1310152403,0,2015
+population,SP.POP.TOTL,"Population, total",IN,India,1324509589,0,2016
+population,SP.POP.TOTL,"Population, total",IN,India,1338658835,0,2017
+population,SP.POP.TOTL,"Population, total",IN,India,1352617328,0,2018
+population,SP.POP.TOTL,"Population, total",PH,Philippines,90901965,0,2008
+population,SP.POP.TOTL,"Population, total",PH,Philippines,92414158,0,2009
+population,SP.POP.TOTL,"Population, total",PH,Philippines,93966780,0,2010
+population,SP.POP.TOTL,"Population, total",PH,Philippines,95570047,0,2011
+population,SP.POP.TOTL,"Population, total",PH,Philippines,97212638,0,2012
+population,SP.POP.TOTL,"Population, total",PH,Philippines,98871552,0,2013
+population,SP.POP.TOTL,"Population, total",PH,Philippines,100513138,0,2014
+population,SP.POP.TOTL,"Population, total",PH,Philippines,102113212,0,2015
+population,SP.POP.TOTL,"Population, total",PH,Philippines,103663927,0,2016
+population,SP.POP.TOTL,"Population, total",PH,Philippines,105173264,0,2017
+population,SP.POP.TOTL,"Population, total",PH,Philippines,106651922,0,2018
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CA,Canada,6.13710021972656,1,2008
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CA,Canada,8.3439998626709,1,2009
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CA,Canada,8.05550003051758,1,2010
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CA,Canada,7.51109981536865,1,2011
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CA,Canada,7.29180002212524,1,2012
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CA,Canada,7.07359981536865,1,2013
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CA,Canada,6.9141001701355,1,2014
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CA,Canada,6.9064998626709,1,2015
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CA,Canada,6.99889993667603,1,2016
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CA,Canada,6.33970022201538,1,2017
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CA,Canada,5.83080005645752,1,2018
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CN,China,4.19999980926514,1,2008
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CN,China,4.30000019073486,1,2009
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CN,China,4.09999990463257,1,2010
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CN,China,4.09999990463257,1,2011
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CN,China,4.09999990463257,1,2012
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CN,China,4.05000019073486,1,2013
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CN,China,4.09999990463257,1,2014
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CN,China,,1,2015
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CN,China,,1,2016
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CN,China,3.90000009536743,1,2017
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",CN,China,,1,2018
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",IN,India,,1,2008
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",IN,India,,1,2009
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",IN,India,2.44359993934631,1,2010
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",IN,India,,1,2011
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",IN,India,2.68980002403259,1,2012
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",IN,India,,1,2013
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",IN,India,,1,2014
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",IN,India,,1,2015
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",IN,India,,1,2016
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",IN,India,,1,2017
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",IN,India,,1,2018
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",PH,Philippines,3.71989989280701,1,2008
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",PH,Philippines,3.85809993743896,1,2009
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",PH,Philippines,3.60509991645813,1,2010
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",PH,Philippines,3.59220004081726,1,2011
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",PH,Philippines,3.50419998168945,1,2012
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",PH,Philippines,3.49729990959167,1,2013
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",PH,Philippines,3.59990000724792,1,2014
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",PH,Philippines,,1,2015
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",PH,Philippines,2.70779991149902,1,2016
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",PH,Philippines,2.5518000125885,1,2017
+unemmployment,SL.UEM.TOTL.NE.ZS,"Unemployment, total (% of total labor force) (national estimate)",PH,Philippines,,1,2018
