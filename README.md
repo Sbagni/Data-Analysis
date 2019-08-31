@@ -2,7 +2,7 @@
 This project applies analytics tools to identify the Top 3 nationalities that most migrate to Canada.
 
 ## Presentation
-Just click to open a presentation
+*Just click to open a presentation*<br><br>
 [![presentation](/Presentation/presenation_initial.PNG)](https://docs.google.com/presentation/d/1jOascaJ1pg3lJgmDiEIp_BmzOwSgzBPC2P43QNQXc3k/edit?usp=sharing)
 
 # Feature:
